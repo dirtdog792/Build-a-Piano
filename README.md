@@ -32,3 +32,13 @@ Step 11
 Now target your #piano element with an id selector. Set background-color property to #00471b, the width property to 992px and the height property to 290px.
 Step 12
 Set the margin of the #piano to 80px auto.
+Step 13
+Time to style the keys. Below the #piano rule, target the .keys element with a class selector. Give the new rule a background-color property of #040404, a width property of 949px and a height property of 180px.
+Step 14
+Give the .keys a padding-left of 2px.
+Step 15
+Move the keys into position by adjusting the #piano selector. Set the padding property to 90px 20px 0 20px.
+Step 16
+Time to style the keys themselves. Create a class selector for the .key elements. Set the background-color set to the value #ffffff, the position property to relative, the width property to 41px, and the height property to 175px.
+Step 17
+Give the .key a margin of 2px and a float property set to left.
